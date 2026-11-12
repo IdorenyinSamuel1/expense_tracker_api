@@ -47,8 +47,8 @@ expense-tracker-api/
 
    Copy `.env.example` to `.env` and update values if needed:
    ```env
-   PORT=5000
-   MONGO_URI=mongodb://localhost:27017/expense-tracker
+   PORT
+   MONGO_URI=mongodb
    NODE_ENV=development
    ```
 
